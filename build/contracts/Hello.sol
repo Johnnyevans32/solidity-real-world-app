@@ -1,0 +1,3 @@
+contract {
+    string heloo = 'hello'
+}
